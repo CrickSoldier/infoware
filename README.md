@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Screen
 
-<img src="https://raw.github.com/CrickSoldier/infoware/master/screens/1.png" width="256"/>
+<img src="https://raw.github.com/CrickSoldier/infoware/master/screen/1.png" width="256"/>
 
 This project is a starting point for a Flutter application.
 
