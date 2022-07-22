@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Screen
+
+<img src="https://raw.github.com/CrickSoldier/infoware/master/screens/1.png" width="256"/>
 
 This project is a starting point for a Flutter application.
 
